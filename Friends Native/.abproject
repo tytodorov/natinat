@@ -1,0 +1,28 @@
+{
+  "ProjectName": "Friends Native",
+  "ProjectGuid": "ce880448-a19f-4a9e-a864-205b141a4e94",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.FriendsNative",
+  "DisplayName": "Friends Native",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{F0A65104-D4F4-4012-B799-F612D75820F6}",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "FrameworkVersion": "0.10.0",
+  "Framework": "NativeScript"
+}
